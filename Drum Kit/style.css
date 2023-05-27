@@ -1,0 +1,62 @@
+html{
+    background-color: darkslateblue;
+    
+}
+.container, h1{
+    font-family: "Averia Sans Libre", cursive;
+    text-shadow: 5px 5px purple;
+    color: aliceblue;
+    text-align: center;
+    margin: 10% auto;
+    
+}
+h1{
+    font-size: 100px;
+}
+.W
+{
+    background-image: url('./images/tom4.png');
+    background-size: 130px 120px;
+}
+.A{
+    background-image: url('./images/kick.png');
+    background-size: 150px 150px;
+}
+.S{
+    background-image: url('./images/snare.png');
+    background-size: 150px 150px;
+}
+.D{
+    background-image: url('./images/tom1.png');
+    background-size: 150px 150px;
+}
+.j{
+    background-image: url('./images/tom2.png');
+    background-size: 150px 150px;
+}
+.K{
+    background-image: url('./images/tom3.png');
+    background-size: 150px 150px;
+}
+.l{
+    background-image: url('./images/crash.png');
+    /* background-size: 150px 150px; */
+}
+.drum
+{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-color: grey;
+    border-width: 15px;
+    border-radius: 20px;
+    color: rgb(79, 107, 161);
+    font-family: 'Playfair Display', serif;
+    font-size: xx-large;
+    
+}
+footer{
+    margin-top: 100px;
+    text-align: center;
+    color: aliceblue;
+}
